@@ -1,2 +1,6 @@
-from .core import frown
-from .core import smile
+def smile():
+    return ":)"
+
+
+def frown():
+    return ":("

@@ -1,5 +1,6 @@
-from context import machinecv
 import unittest
+
+import machinecv
 
 
 class TestMethods(unittest.TestCase):
